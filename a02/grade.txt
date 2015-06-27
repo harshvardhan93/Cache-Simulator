@@ -1,0 +1,65 @@
+Grading a02 (worth 100 points)
+-------------------------------------------------
+***********************
+* Starting test 1     *
+***********************
+Test case failed to produce the correct output!
+Differences (first 10 lines): 
+===============
+Error							      \
+							      >	L1 Read Hits (HitRate): 2 (50%)
+							      >	L1 Read Misses (MissRate): 2 (50%)
+							      >	L1 Write Hits (HitRate): 2 (28%)
+							      >	L1 Write Misses (MissRate): 5 (71%)
+							      >	L1 Overall Hit Rate: 36%
+							      >	L1 Overall Miss Rate: 63%
+							      >
+							      >	L2 Read Hits (HitRate): 0 (0%)
+							      >	L2 Read Misses (MissRate): 2 (100%)
+===============
+This test counts as 30% of the score for this problem
+This test was scored as incorrect (0)
+***********************
+* Starting test 2     *
+***********************
+Test case failed to produce the correct output!
+Differences (first 10 lines): 
+===============
+Error							      \
+							      >	L1 Read Hits (HitRate): 1 (33%)
+							      >	L1 Read Misses (MissRate): 2 (66%)
+							      >	L1 Write Hits (HitRate): 1 (20%)
+							      >	L1 Write Misses (MissRate): 4 (80%)
+							      >	L1 Overall Hit Rate: 25%
+							      >	L1 Overall Miss Rate: 75%
+							      >
+							      >	L2 Read Hits (HitRate): 0 (0%)
+							      >	L2 Read Misses (MissRate): 2 (100%)
+===============
+This test counts as 30% of the score for this problem
+This test was scored as incorrect (0)
+***********************
+* Starting test 3     *
+***********************
+Test case failed to produce the correct output!
+Differences (first 10 lines): 
+===============
+Error							      \
+							      >	L1 Read Hits (HitRate): 1 (33%)
+							      >	L1 Read Misses (MissRate): 2 (66%)
+							      >	L1 Write Hits (HitRate): 1 (20%)
+							      >	L1 Write Misses (MissRate): 4 (80%)
+							      >	L1 Overall Hit Rate: 25%
+							      >	L1 Overall Miss Rate: 75%
+							      >
+							      >	L2 Read Hits (HitRate): 0 (0%)
+							      >	L2 Read Misses (MissRate): 2 (100%)
+===============
+This test counts as 40% of the score for this problem
+This test was scored as incorrect (0)
+Percent this problem: 0 (= 0 / 100 points)
+------------------------------------------
+
+
+=============================================
+Overal score: 0

@@ -1,0 +1,32 @@
+Grading a01 (worth 100 points)
+-------------------------------------------------
+***********************
+* Starting test 1     *
+***********************
+The output matches the expected output.
+This test counts as 30% of the score for this problem
+This test was scored as correct (30)
+***********************
+* Starting test 2     *
+***********************
+The output matches the expected output.
+This test counts as 30% of the score for this problem
+This test was scored as correct (30)
+***********************
+* Starting test 3     *
+***********************
+The output matches the expected output.
+This test counts as 20% of the score for this problem
+This test was scored as correct (20)
+***********************
+* Starting test 4     *
+***********************
+The output matches the expected output.
+This test counts as 20% of the score for this problem
+This test was scored as correct (20)
+Percent this problem: 100 (= 100.0 / 100 points)
+------------------------------------------
+
+
+=============================================
+Overal score: 100.0
